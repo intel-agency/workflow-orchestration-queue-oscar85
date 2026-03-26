@@ -1,5 +1,5 @@
 {
-  "name": "ai-new-workflow-app-template",
+  "name": "workflow-orchestration-queue-oscar85",
   "image": "ghcr.io/intel-agency/workflow-orchestration-prebuild/devcontainer:main-latest",
   "containerEnv": {
     "DOTNET_ROOT": "/usr/share/dotnet"

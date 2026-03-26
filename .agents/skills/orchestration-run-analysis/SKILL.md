@@ -28,7 +28,7 @@ metadata:
 
 Use this skill when:
 
-- A deployed template repository (generated from `ai-new-workflow-app-template`) has completed one or more orchestrator runs and you need to understand what happened
+- A deployed template repository (generated from `workflow-orchestration-queue-oscar85`) has completed one or more orchestrator runs and you need to understand what happened
 - An orchestration sequence stalled or produced fewer issues/PRs/epics than expected
 - You need a formal post-mortem of a workflow run for debugging or documentation
 - Comparing expected orchestrator behavior against actual event data
